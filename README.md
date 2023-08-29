@@ -20,7 +20,6 @@
 - mongoDB(есть куда расти😅)
 
 ## Github stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agregati4&theme=cobalt&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agregati4&layout=compact)](https://github.com/agregati4/github-readme-stats)
 
 ## Свяжитесь со мной:
@@ -28,3 +27,5 @@
   <p>VK: <a href="https://vk.com/maya_hata_s_krayu">Иван Буторин</a></p>
   <p>telegram: maya_hata_s_krayu</p>
 </div>
+
+![](https://komarev.com/ghpvc/?username=agregati4&color=green)
