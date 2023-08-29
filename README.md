@@ -18,6 +18,7 @@
 - Node.js(знаю неплохо, продолжаю изучать🤓)
 - express.js(знаю неплохо, продолжаю изучать🤓)
 - mongoDB(есть куда расти😅)
+- Postman(знаю отлично✅)
 
 ## Github stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agregati4&layout=compact)](https://github.com/agregati4/github-readme-stats)
