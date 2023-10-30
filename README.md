@@ -29,8 +29,8 @@
 
 ## Свяжитесь со мной:
 <div>
-  <p>VK: <a href="https://vk.com/maya_hata_s_krayu">Иван Буторин</a></p>
-  <p>telegram: maya_hata_s_krayu</p>
+  <p>VK: <a href="https://vk.com/agregati4">Иван Буторин</a></p>
+  <p>telegram: @agregati4</p>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=agregati4&color=green)
