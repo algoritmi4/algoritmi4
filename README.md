@@ -1,4 +1,4 @@
-<div align="center"><h1>Привет, я - Agregati4, веб-разработчик👋</h1></div>
+<div align="center"><h1>Привет, я - Algoritmi4, frontend-разработчик👋</h1></div>
 
 <div align="center">
   Я родился в Сургуте, а сейчас живу и учусь в Москве.
