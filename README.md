@@ -27,7 +27,7 @@
 - Postman(знаю отлично✅)
 
 ## Github stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agregati4&layout=compact)](https://github.com/agregati4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmi4&layout=compact)](https://github.com/algoritmi4/github-readme-stats)
 
 ## Свяжитесь со мной:
 <div>
@@ -36,4 +36,4 @@
   <p>Email: ButorinLP@yandex.ru</p>
 </div>
 
-![](https://komarev.com/ghpvc/?username=agregati4&color=green)
+![](https://komarev.com/ghpvc/?username=algoritmi4&color=green)
