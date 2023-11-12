@@ -31,8 +31,8 @@
 
 ## Свяжитесь со мной:
 <div>
-  <p>VK: <a href="https://vk.com/agregati4">Иван Буторин</a></p>
-  <p>Telegram: @agregati4</p>
+  <p>VK: <a href="https://vk.com/algoritmi4">Иван Буторин</a></p>
+  <p>Telegram: @algoritmi4</p>
   <p>Email: ButorinLP@yandex.ru</p>
 </div>
 
