@@ -17,6 +17,14 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
 
 - Стараюсь уделять практике как можно больше времени🤓.
 
+## Свяжитесь со мной: 
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/algoritmi4" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
+
 ## Мой стек:
 <table><tr><td valign="top" width="33%">
 
@@ -60,13 +68,5 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
 ## Github stats:
 <img src="https://github-readme-stats.vercel.app/api?username=algoritmi4&show_icons=true&count_private=true&hide_border=true" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmi4&hide_border=true&layout=compact" align="left" />
-
-## Свяжитесь со мной: 
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/algoritmi4" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
 
 ![](https://komarev.com/ghpvc/?username=algoritmi4&color=green)
