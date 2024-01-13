@@ -25,7 +25,7 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
   <a href="https://t.me/algoritmi4" target="_blank">
     <img src=https://img.shields.io/badge/telegram-fdf4e3.svg?&style=for-the-badge&logo=telegram&logoColor=#24A1DE&color=white alt=telegram style="margin-bottom: 5px;" />
   </a>
-  <img src=https://img.shields.io/badge/email:-ButorinLP@yandex.ru-white?&style=flat-square&labelColor=2324292e&color=24A1DE alt=telegram style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/email:-ButorinLP@yandex.ru-white?&style=for-the-badge&labelColor=2324292e&color=24A1DE alt=telegram style="margin-bottom: 5px;" />
 </div> 
 
 ## <div align="center">Мой стек</div>
