@@ -8,10 +8,20 @@
 - Хочу писать чистый код, который будет приятно дорабатывать📄.
 - Стараюсь уделять практике как можно больше времени🤓.
 
-## Сертификат об окончании курса "Веб-разработчик" от Яндекс Практикума:
-![image](https://github.com/Agregati4/agregati4/assets/117747237/bc0396b2-3ed7-4c84-9f4b-6a4ea73ad6b8)
-
-## Стек моих навыков:
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <h3>Frontend</h3>
+        <div align="center">
+          ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+          ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+## Мой стек:
 - HTML5(знаю отлично✅)
 - CSS(знаю отлично✅)
 - TailwindCSS(знаю хорошо👍)
@@ -25,6 +35,9 @@
 - express.js(знаю неплохо, продолжаю изучать🤓)
 - mongoDB(есть куда расти😅)
 - Postman(знаю отлично✅)
+
+## Сертификат об окончании курса "Веб-разработчик" от Яндекс Практикума:
+![image](https://github.com/Agregati4/agregati4/assets/117747237/bc0396b2-3ed7-4c84-9f4b-6a4ea73ad6b8)
 
 ## Github stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmi4&layout=compact)](https://github.com/algoritmi4/github-readme-stats)
