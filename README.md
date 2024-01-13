@@ -24,8 +24,6 @@
     
   </div>
 </div>
-  
-</div
 
 ## Сертификат об окончании курса "Веб-разработчик" от Яндекс Практикума:
 ![image](https://github.com/Agregati4/agregati4/assets/117747237/bc0396b2-3ed7-4c84-9f4b-6a4ea73ad6b8)
