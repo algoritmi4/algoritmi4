@@ -7,6 +7,7 @@
 - Хочу работать с опытными разработчиками🔞.
 - Хочу писать чистый код, который будет приятно дорабатывать📄.
 - Стараюсь уделять практике как можно больше времени🤓.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <table>
   <tbody>
