@@ -71,4 +71,6 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
 <img src="https://github-readme-stats.vercel.app/api?username=algoritmi4&show_icons=true&count_private=true&hide_border=true" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmi4&hide_border=true&layout=compact" align="left" />
 
+</br>
+
 ![](https://komarev.com/ghpvc/?username=algoritmi4&color=green)
