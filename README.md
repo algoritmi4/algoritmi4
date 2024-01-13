@@ -19,12 +19,13 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
 
 ## Свяжитесь со мной: 
 <div align="center">
-  <a href="https://linkedin.com/in/rishavanand" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
   <a href="https://github.com/algoritmi4" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
+  <a href="https://t.me/algoritmi4" target="_blank">
+    <img src=https://img.shields.io/badge/telegram-fdf4e3.svg?&style=for-the-badge&logo=telegram&logoColor=#24A1DE&color=white alt=telegram style="margin-bottom: 5px;" />
+  </a>
+  <img src=https://img.shields.io/badge/email:-ButorinLP@yandex.ru-white?&style=flat-square&labelColor=2324292e&color=24A1DE alt=telegram style="margin-bottom: 5px;" />
 </div> 
 
 ## <div align="center">Мой стек</div>
@@ -68,9 +69,11 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
 ![image](https://github.com/Agregati4/agregati4/assets/117747237/bc0396b2-3ed7-4c84-9f4b-6a4ea73ad6b8)
 
 ## Github stats:
-<img src="https://github-readme-stats.vercel.app/api?username=algoritmi4&show_icons=true&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmi4&hide_border=true&layout=compact" align="left" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=algoritmi4&show_icons=true&count_private=true&hide_border=true" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmi4&hide_border=true&layout=compact" align="left" />
+</div>
 
-</br>
+
 
 ![](https://komarev.com/ghpvc/?username=algoritmi4&color=green)
