@@ -7,22 +7,25 @@
 - Хочу работать с опытными разработчиками🔞.
 - Хочу писать чистый код, который будет приятно дорабатывать📄.
 - Стараюсь уделять практике как можно больше времени🤓.
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <h3>Frontend</h3>
-        <div align="center">
-          ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-          ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
 ## Мой стек:
+<div display="flex" width="100%" border="1px solid red">
+  <div width="33%">
+    <h3>Frontend</h3>
+    <div display="flex">
+      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    </div>
+  </div>
+  <div width="33%">
+    
+  </div>
+  <div width="33%">
+    
+  </div>
+</div>
+  
+</div>
 - HTML5(знаю отлично✅)
 - CSS(знаю отлично✅)
 - TailwindCSS(знаю хорошо👍)
