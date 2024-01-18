@@ -1,7 +1,4 @@
-## <div align="center">Привет👋, меня зовут Иван, я frontend-разработчик уровня junior</div>  
-  
-
-#### *<div align="center">Нахожусь в активном поиске проекта, который нуждается в моей поддержке🚀</div>*
+## <div align="center">Привет👋, меня зовут Иван, я Frontend-разработчик</div>  
 
 ## Обо мне:
 <img align="right" width="200px" 
