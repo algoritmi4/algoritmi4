@@ -6,7 +6,7 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
 
 - Стемлюсь каждый день изучать что-то новое и развивать свои навыки программирования💻
 
-- Стемлюсь к работе с реальными проектами👊
+- Стемлюсь к работе с интересными проектами👊
 
 - Хочу работать с опытными разработчиками🔞
 
@@ -70,7 +70,3 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
   <img src="https://github-readme-stats.vercel.app/api?username=algoritmi4&show_icons=true&count_private=true&hide_border=true" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algoritmi4&hide_border=true&layout=compact" align="left" />
 </div>
-
-
-
-![](https://komarev.com/ghpvc/?username=algoritmi4&color=green)
