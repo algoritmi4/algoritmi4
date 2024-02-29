@@ -62,9 +62,6 @@ src="https://media4.giphy.com/media/QDjpIL6oNCVZ4qzGs7/200w.webp?cid=ecf05e47nr2
 
 </td></tr></table> 
 
-## Сертификат об окончании курса "Веб-разработчик" от Яндекс Практикума:
-![image](https://github.com/Agregati4/agregati4/assets/117747237/bc0396b2-3ed7-4c84-9f4b-6a4ea73ad6b8)
-
 ## Github stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=algoritmi4&show_icons=true&count_private=true&hide_border=true" align="left" />
